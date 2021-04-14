@@ -54,6 +54,7 @@ class Solution {
             return 0;
         }
         return $str_num;
+        serialize()
 
 
     }
